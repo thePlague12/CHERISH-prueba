@@ -171,6 +171,7 @@ background-color: darkgrey;
 .product-img{
     padding: 1em 0 0 0;
     width: 70%;
+    
     float: left;
     overflow: hidden;
 }
@@ -191,6 +192,7 @@ background-color: darkgrey;
 
 .product-descripcion h2{
     color: #021D49;
+    text-align: left;
     font-size: 1.5em;
     padding: .5em 3em 0 0;
 }
